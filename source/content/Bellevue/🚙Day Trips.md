@@ -7,6 +7,7 @@ One of the best parts of being based in Bellevue is how easy it is to explore th
 ## 🌊 Snoqualmie Falls
 - **Drive Time**: ~45 minutes
 - **Why Go**: One of Washington’s most iconic waterfalls (268 feet tall!) with accessible viewpoints and short trails.
+	- Great place for [[🥾 Outdoor Trails]]
 - **Best For**: Nature lovers, photographers, families
 - **Optional Add-On**: Stop at **Salish Lodge & Spa** for lunch, or head into **Snoqualmie/North Bend** for small-town charm.
 
