@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Personal Wiki
 ---
 
-Hello world!
-
-Write some words here!
+This is the Personal Wiki for George and Friends of Helu
